@@ -1,0 +1,11 @@
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Code\ThucHanh_B02\QLDiem\QLDiem\QLDiem\obj\Debug\QLDiem.csproj.AssemblyReference.cache
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Code\ThucHanh_B02\QLDiem\QLDiem\QLDiem\obj\Debug\QLDiem.csproj.SuggestedBindingRedirects.cache
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Code\ThucHanh_B02\QLDiem\QLDiem\QLDiem\obj\Debug\QLDiem.Form1.resources
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Code\ThucHanh_B02\QLDiem\QLDiem\QLDiem\obj\Debug\QLDiem.Properties.Resources.resources
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Code\ThucHanh_B02\QLDiem\QLDiem\QLDiem\obj\Debug\QLDiem.csproj.GenerateResource.cache
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Code\ThucHanh_B02\QLDiem\QLDiem\QLDiem\obj\Debug\QLDiem.csproj.CoreCompileInputs.cache
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Code\ThucHanh_B02\QLDiem\QLDiem\QLDiem\bin\Debug\QLDiem.exe.config
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Code\ThucHanh_B02\QLDiem\QLDiem\QLDiem\bin\Debug\QLDiem.exe
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Code\ThucHanh_B02\QLDiem\QLDiem\QLDiem\bin\Debug\QLDiem.pdb
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Code\ThucHanh_B02\QLDiem\QLDiem\QLDiem\obj\Debug\QLDiem.exe
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Code\ThucHanh_B02\QLDiem\QLDiem\QLDiem\obj\Debug\QLDiem.pdb

@@ -1,0 +1,11 @@
+E:\lập trình trực quan\Thuc Hanh Tuan2\bai2_duthuyen\bai2_duthuyen\bin\Debug\bai2_duthuyen.exe.config
+E:\lập trình trực quan\Thuc Hanh Tuan2\bai2_duthuyen\bai2_duthuyen\bin\Debug\bai2_duthuyen.exe
+E:\lập trình trực quan\Thuc Hanh Tuan2\bai2_duthuyen\bai2_duthuyen\bin\Debug\bai2_duthuyen.pdb
+E:\lập trình trực quan\Thuc Hanh Tuan2\bai2_duthuyen\bai2_duthuyen\obj\Debug\bai2_duthuyen.csproj.AssemblyReference.cache
+E:\lập trình trực quan\Thuc Hanh Tuan2\bai2_duthuyen\bai2_duthuyen\obj\Debug\bai2_duthuyen.csproj.SuggestedBindingRedirects.cache
+E:\lập trình trực quan\Thuc Hanh Tuan2\bai2_duthuyen\bai2_duthuyen\obj\Debug\bai2_duthuyen.Form1.resources
+E:\lập trình trực quan\Thuc Hanh Tuan2\bai2_duthuyen\bai2_duthuyen\obj\Debug\bai2_duthuyen.Properties.Resources.resources
+E:\lập trình trực quan\Thuc Hanh Tuan2\bai2_duthuyen\bai2_duthuyen\obj\Debug\bai2_duthuyen.csproj.GenerateResource.cache
+E:\lập trình trực quan\Thuc Hanh Tuan2\bai2_duthuyen\bai2_duthuyen\obj\Debug\bai2_duthuyen.csproj.CoreCompileInputs.cache
+E:\lập trình trực quan\Thuc Hanh Tuan2\bai2_duthuyen\bai2_duthuyen\obj\Debug\bai2_duthuyen.exe
+E:\lập trình trực quan\Thuc Hanh Tuan2\bai2_duthuyen\bai2_duthuyen\obj\Debug\bai2_duthuyen.pdb

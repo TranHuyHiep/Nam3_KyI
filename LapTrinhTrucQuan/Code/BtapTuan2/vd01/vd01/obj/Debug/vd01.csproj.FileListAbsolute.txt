@@ -1,0 +1,12 @@
+D:\Visual\BTT2\vd01\vd01\bin\Debug\vd01.exe.config
+D:\Visual\BTT2\vd01\vd01\bin\Debug\vd01.exe
+D:\Visual\BTT2\vd01\vd01\bin\Debug\vd01.pdb
+D:\Visual\BTT2\vd01\vd01\obj\Debug\vd01.csproj.AssemblyReference.cache
+D:\Visual\BTT2\vd01\vd01\obj\Debug\vd01.csproj.SuggestedBindingRedirects.cache
+D:\Visual\BTT2\vd01\vd01\obj\Debug\vd01.Form1.resources
+D:\Visual\BTT2\vd01\vd01\obj\Debug\vd01.Form2.resources
+D:\Visual\BTT2\vd01\vd01\obj\Debug\vd01.Properties.Resources.resources
+D:\Visual\BTT2\vd01\vd01\obj\Debug\vd01.csproj.GenerateResource.cache
+D:\Visual\BTT2\vd01\vd01\obj\Debug\vd01.csproj.CoreCompileInputs.cache
+D:\Visual\BTT2\vd01\vd01\obj\Debug\vd01.exe
+D:\Visual\BTT2\vd01\vd01\obj\Debug\vd01.pdb

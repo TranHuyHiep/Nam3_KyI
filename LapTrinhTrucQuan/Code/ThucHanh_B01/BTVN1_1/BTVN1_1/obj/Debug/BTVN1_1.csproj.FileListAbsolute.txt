@@ -1,0 +1,8 @@
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Code\ThucHanh\BTVN1_1\BTVN1_1\bin\Debug\BTVN1_1.exe.config
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Code\ThucHanh\BTVN1_1\BTVN1_1\bin\Debug\BTVN1_1.exe
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Code\ThucHanh\BTVN1_1\BTVN1_1\bin\Debug\BTVN1_1.pdb
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Code\ThucHanh\BTVN1_1\BTVN1_1\obj\Debug\BTVN1_1.csproj.AssemblyReference.cache
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Code\ThucHanh\BTVN1_1\BTVN1_1\obj\Debug\BTVN1_1.csproj.SuggestedBindingRedirects.cache
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Code\ThucHanh\BTVN1_1\BTVN1_1\obj\Debug\BTVN1_1.csproj.CoreCompileInputs.cache
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Code\ThucHanh\BTVN1_1\BTVN1_1\obj\Debug\BTVN1_1.exe
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Code\ThucHanh\BTVN1_1\BTVN1_1\obj\Debug\BTVN1_1.pdb

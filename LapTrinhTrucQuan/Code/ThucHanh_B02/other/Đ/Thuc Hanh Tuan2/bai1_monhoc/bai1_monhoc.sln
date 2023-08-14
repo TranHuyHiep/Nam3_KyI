@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bai1_monhoc", "bai1_monhoc\bai1_monhoc.csproj", "{8258AA0A-00B8-414D-B2E5-A5331D343B78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8258AA0A-00B8-414D-B2E5-A5331D343B78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8258AA0A-00B8-414D-B2E5-A5331D343B78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8258AA0A-00B8-414D-B2E5-A5331D343B78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8258AA0A-00B8-414D-B2E5-A5331D343B78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D490E90-1BA6-4F1E-92B3-9A0F18880CE9}
+	EndGlobalSection
+EndGlobal

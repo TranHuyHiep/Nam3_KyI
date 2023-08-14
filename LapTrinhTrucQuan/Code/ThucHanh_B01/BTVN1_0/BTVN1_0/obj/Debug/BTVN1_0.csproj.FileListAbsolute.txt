@@ -1,0 +1,8 @@
+E:\utc_dai_cuong\nam3\Nam3_KyI\LapTrinhTrucQuan\THH\Lap_Trinh_Truc_Quan\Code\ThucHanh\BTVN1_0\BTVN1_0\bin\Debug\BTVN1_0.exe.config
+E:\utc_dai_cuong\nam3\Nam3_KyI\LapTrinhTrucQuan\THH\Lap_Trinh_Truc_Quan\Code\ThucHanh\BTVN1_0\BTVN1_0\bin\Debug\BTVN1_0.exe
+E:\utc_dai_cuong\nam3\Nam3_KyI\LapTrinhTrucQuan\THH\Lap_Trinh_Truc_Quan\Code\ThucHanh\BTVN1_0\BTVN1_0\bin\Debug\BTVN1_0.pdb
+E:\utc_dai_cuong\nam3\Nam3_KyI\LapTrinhTrucQuan\THH\Lap_Trinh_Truc_Quan\Code\ThucHanh\BTVN1_0\BTVN1_0\obj\Debug\BTVN1_0.csproj.AssemblyReference.cache
+E:\utc_dai_cuong\nam3\Nam3_KyI\LapTrinhTrucQuan\THH\Lap_Trinh_Truc_Quan\Code\ThucHanh\BTVN1_0\BTVN1_0\obj\Debug\BTVN1_0.csproj.SuggestedBindingRedirects.cache
+E:\utc_dai_cuong\nam3\Nam3_KyI\LapTrinhTrucQuan\THH\Lap_Trinh_Truc_Quan\Code\ThucHanh\BTVN1_0\BTVN1_0\obj\Debug\BTVN1_0.csproj.CoreCompileInputs.cache
+E:\utc_dai_cuong\nam3\Nam3_KyI\LapTrinhTrucQuan\THH\Lap_Trinh_Truc_Quan\Code\ThucHanh\BTVN1_0\BTVN1_0\obj\Debug\BTVN1_0.exe
+E:\utc_dai_cuong\nam3\Nam3_KyI\LapTrinhTrucQuan\THH\Lap_Trinh_Truc_Quan\Code\ThucHanh\BTVN1_0\BTVN1_0\obj\Debug\BTVN1_0.pdb

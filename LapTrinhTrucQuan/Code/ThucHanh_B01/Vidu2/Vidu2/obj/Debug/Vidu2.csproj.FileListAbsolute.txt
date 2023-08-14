@@ -1,0 +1,11 @@
+E:\utc_dai_cuong\nam3\Nam3_KyI\LapTrinhTrucQuan\THH\Lap_Trinh_Truc_Quan\Code\ThucHanh\Vidu2\Vidu2\bin\Debug\Vidu2.exe.config
+E:\utc_dai_cuong\nam3\Nam3_KyI\LapTrinhTrucQuan\THH\Lap_Trinh_Truc_Quan\Code\ThucHanh\Vidu2\Vidu2\bin\Debug\Vidu2.exe
+E:\utc_dai_cuong\nam3\Nam3_KyI\LapTrinhTrucQuan\THH\Lap_Trinh_Truc_Quan\Code\ThucHanh\Vidu2\Vidu2\bin\Debug\Vidu2.pdb
+E:\utc_dai_cuong\nam3\Nam3_KyI\LapTrinhTrucQuan\THH\Lap_Trinh_Truc_Quan\Code\ThucHanh\Vidu2\Vidu2\obj\Debug\Vidu2.csproj.AssemblyReference.cache
+E:\utc_dai_cuong\nam3\Nam3_KyI\LapTrinhTrucQuan\THH\Lap_Trinh_Truc_Quan\Code\ThucHanh\Vidu2\Vidu2\obj\Debug\Vidu2.csproj.SuggestedBindingRedirects.cache
+E:\utc_dai_cuong\nam3\Nam3_KyI\LapTrinhTrucQuan\THH\Lap_Trinh_Truc_Quan\Code\ThucHanh\Vidu2\Vidu2\obj\Debug\Vidu2.Form1.resources
+E:\utc_dai_cuong\nam3\Nam3_KyI\LapTrinhTrucQuan\THH\Lap_Trinh_Truc_Quan\Code\ThucHanh\Vidu2\Vidu2\obj\Debug\Vidu2.Properties.Resources.resources
+E:\utc_dai_cuong\nam3\Nam3_KyI\LapTrinhTrucQuan\THH\Lap_Trinh_Truc_Quan\Code\ThucHanh\Vidu2\Vidu2\obj\Debug\Vidu2.csproj.GenerateResource.cache
+E:\utc_dai_cuong\nam3\Nam3_KyI\LapTrinhTrucQuan\THH\Lap_Trinh_Truc_Quan\Code\ThucHanh\Vidu2\Vidu2\obj\Debug\Vidu2.csproj.CoreCompileInputs.cache
+E:\utc_dai_cuong\nam3\Nam3_KyI\LapTrinhTrucQuan\THH\Lap_Trinh_Truc_Quan\Code\ThucHanh\Vidu2\Vidu2\obj\Debug\Vidu2.exe
+E:\utc_dai_cuong\nam3\Nam3_KyI\LapTrinhTrucQuan\THH\Lap_Trinh_Truc_Quan\Code\ThucHanh\Vidu2\Vidu2\obj\Debug\Vidu2.pdb

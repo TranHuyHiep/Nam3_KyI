@@ -1,0 +1,12 @@
+E:\lập trình trực quan\Thuc Hanh Tuan2\Vidu1\Vidu1\bin\Debug\Vidu1.exe.config
+E:\lập trình trực quan\Thuc Hanh Tuan2\Vidu1\Vidu1\bin\Debug\Vidu1.exe
+E:\lập trình trực quan\Thuc Hanh Tuan2\Vidu1\Vidu1\bin\Debug\Vidu1.pdb
+E:\lập trình trực quan\Thuc Hanh Tuan2\Vidu1\Vidu1\obj\Debug\Vidu1.csproj.AssemblyReference.cache
+E:\lập trình trực quan\Thuc Hanh Tuan2\Vidu1\Vidu1\obj\Debug\Vidu1.csproj.SuggestedBindingRedirects.cache
+E:\lập trình trực quan\Thuc Hanh Tuan2\Vidu1\Vidu1\obj\Debug\Vidu1.Form1.resources
+E:\lập trình trực quan\Thuc Hanh Tuan2\Vidu1\Vidu1\obj\Debug\Vidu1.Properties.Resources.resources
+E:\lập trình trực quan\Thuc Hanh Tuan2\Vidu1\Vidu1\obj\Debug\Vidu1.csproj.GenerateResource.cache
+E:\lập trình trực quan\Thuc Hanh Tuan2\Vidu1\Vidu1\obj\Debug\Vidu1.csproj.CoreCompileInputs.cache
+E:\lập trình trực quan\Thuc Hanh Tuan2\Vidu1\Vidu1\obj\Debug\Vidu1.exe
+E:\lập trình trực quan\Thuc Hanh Tuan2\Vidu1\Vidu1\obj\Debug\Vidu1.pdb
+E:\lập trình trực quan\Thuc Hanh Tuan2\Vidu1\Vidu1\obj\Debug\Vidu1.Form2.resources

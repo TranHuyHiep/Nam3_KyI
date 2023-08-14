@@ -1,0 +1,11 @@
+C:\Nam3_ki1\C#\BtapTuan2\Bai02\Bai02\bin\Debug\Bai02.exe.config
+C:\Nam3_ki1\C#\BtapTuan2\Bai02\Bai02\bin\Debug\Bai02.exe
+C:\Nam3_ki1\C#\BtapTuan2\Bai02\Bai02\bin\Debug\Bai02.pdb
+C:\Nam3_ki1\C#\BtapTuan2\Bai02\Bai02\obj\Debug\Bai02_Tuan2.csproj.AssemblyReference.cache
+C:\Nam3_ki1\C#\BtapTuan2\Bai02\Bai02\obj\Debug\Bai02_Tuan2.csproj.SuggestedBindingRedirects.cache
+C:\Nam3_ki1\C#\BtapTuan2\Bai02\Bai02\obj\Debug\Bai02.Form1.resources
+C:\Nam3_ki1\C#\BtapTuan2\Bai02\Bai02\obj\Debug\Bai02.Properties.Resources.resources
+C:\Nam3_ki1\C#\BtapTuan2\Bai02\Bai02\obj\Debug\Bai02_Tuan2.csproj.GenerateResource.cache
+C:\Nam3_ki1\C#\BtapTuan2\Bai02\Bai02\obj\Debug\Bai02_Tuan2.csproj.CoreCompileInputs.cache
+C:\Nam3_ki1\C#\BtapTuan2\Bai02\Bai02\obj\Debug\Bai02.exe
+C:\Nam3_ki1\C#\BtapTuan2\Bai02\Bai02\obj\Debug\Bai02.pdb

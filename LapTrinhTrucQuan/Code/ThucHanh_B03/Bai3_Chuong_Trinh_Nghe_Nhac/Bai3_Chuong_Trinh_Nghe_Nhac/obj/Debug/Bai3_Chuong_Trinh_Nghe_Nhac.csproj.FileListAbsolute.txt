@@ -1,0 +1,16 @@
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Code\ThucHanh_B03\Bai3_Chuong_Trinh_Nghe_Nhac\Bai3_Chuong_Trinh_Nghe_Nhac\bin\Debug\Bai3_Chuong_Trinh_Nghe_Nhac.exe.config
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Code\ThucHanh_B03\Bai3_Chuong_Trinh_Nghe_Nhac\Bai3_Chuong_Trinh_Nghe_Nhac\bin\Debug\Bai3_Chuong_Trinh_Nghe_Nhac.exe
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Code\ThucHanh_B03\Bai3_Chuong_Trinh_Nghe_Nhac\Bai3_Chuong_Trinh_Nghe_Nhac\bin\Debug\Bai3_Chuong_Trinh_Nghe_Nhac.pdb
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Code\ThucHanh_B03\Bai3_Chuong_Trinh_Nghe_Nhac\Bai3_Chuong_Trinh_Nghe_Nhac\bin\Debug\Interop.WMPLib.dll
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Code\ThucHanh_B03\Bai3_Chuong_Trinh_Nghe_Nhac\Bai3_Chuong_Trinh_Nghe_Nhac\bin\Debug\AxInterop.WMPLib.dll
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Code\ThucHanh_B03\Bai3_Chuong_Trinh_Nghe_Nhac\Bai3_Chuong_Trinh_Nghe_Nhac\obj\Debug\Bai3_Chuong_Trinh_Nghe_Nhac.csproj.AssemblyReference.cache
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Code\ThucHanh_B03\Bai3_Chuong_Trinh_Nghe_Nhac\Bai3_Chuong_Trinh_Nghe_Nhac\obj\Debug\Bai3_Chuong_Trinh_Nghe_Nhac.csproj.SuggestedBindingRedirects.cache
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Code\ThucHanh_B03\Bai3_Chuong_Trinh_Nghe_Nhac\Bai3_Chuong_Trinh_Nghe_Nhac\obj\Debug\Interop.WMPLib.dll
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Code\ThucHanh_B03\Bai3_Chuong_Trinh_Nghe_Nhac\Bai3_Chuong_Trinh_Nghe_Nhac\obj\Debug\AxInterop.WMPLib.dll
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Code\ThucHanh_B03\Bai3_Chuong_Trinh_Nghe_Nhac\Bai3_Chuong_Trinh_Nghe_Nhac\obj\Debug\Bai3_Chuong_Trinh_Nghe_Nhac.csproj.ResolveComReference.cache
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Code\ThucHanh_B03\Bai3_Chuong_Trinh_Nghe_Nhac\Bai3_Chuong_Trinh_Nghe_Nhac\obj\Debug\Bai3_Chuong_Trinh_Nghe_Nhac.Form1.resources
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Code\ThucHanh_B03\Bai3_Chuong_Trinh_Nghe_Nhac\Bai3_Chuong_Trinh_Nghe_Nhac\obj\Debug\Bai3_Chuong_Trinh_Nghe_Nhac.Properties.Resources.resources
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Code\ThucHanh_B03\Bai3_Chuong_Trinh_Nghe_Nhac\Bai3_Chuong_Trinh_Nghe_Nhac\obj\Debug\Bai3_Chuong_Trinh_Nghe_Nhac.csproj.GenerateResource.cache
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Code\ThucHanh_B03\Bai3_Chuong_Trinh_Nghe_Nhac\Bai3_Chuong_Trinh_Nghe_Nhac\obj\Debug\Bai3_Chuong_Trinh_Nghe_Nhac.csproj.CoreCompileInputs.cache
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Code\ThucHanh_B03\Bai3_Chuong_Trinh_Nghe_Nhac\Bai3_Chuong_Trinh_Nghe_Nhac\obj\Debug\Bai3_Chuong_Trinh_Nghe_Nhac.exe
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Code\ThucHanh_B03\Bai3_Chuong_Trinh_Nghe_Nhac\Bai3_Chuong_Trinh_Nghe_Nhac\obj\Debug\Bai3_Chuong_Trinh_Nghe_Nhac.pdb

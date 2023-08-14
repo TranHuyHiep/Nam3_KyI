@@ -1,0 +1,11 @@
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Lap_Trinh_Truc_Quan\Code\LuyenTapThem\LuyenTap\LuyenTap\bin\Debug\LuyenTap.exe.config
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Lap_Trinh_Truc_Quan\Code\LuyenTapThem\LuyenTap\LuyenTap\bin\Debug\LuyenTap.exe
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Lap_Trinh_Truc_Quan\Code\LuyenTapThem\LuyenTap\LuyenTap\bin\Debug\LuyenTap.pdb
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Lap_Trinh_Truc_Quan\Code\LuyenTapThem\LuyenTap\LuyenTap\obj\Debug\LuyenTap.csproj.AssemblyReference.cache
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Lap_Trinh_Truc_Quan\Code\LuyenTapThem\LuyenTap\LuyenTap\obj\Debug\LuyenTap.csproj.SuggestedBindingRedirects.cache
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Lap_Trinh_Truc_Quan\Code\LuyenTapThem\LuyenTap\LuyenTap\obj\Debug\LuyenTap.Form1.resources
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Lap_Trinh_Truc_Quan\Code\LuyenTapThem\LuyenTap\LuyenTap\obj\Debug\LuyenTap.Properties.Resources.resources
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Lap_Trinh_Truc_Quan\Code\LuyenTapThem\LuyenTap\LuyenTap\obj\Debug\LuyenTap.csproj.GenerateResource.cache
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Lap_Trinh_Truc_Quan\Code\LuyenTapThem\LuyenTap\LuyenTap\obj\Debug\LuyenTap.csproj.CoreCompileInputs.cache
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Lap_Trinh_Truc_Quan\Code\LuyenTapThem\LuyenTap\LuyenTap\obj\Debug\LuyenTap.exe
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Lap_Trinh_Truc_Quan\Code\LuyenTapThem\LuyenTap\LuyenTap\obj\Debug\LuyenTap.pdb

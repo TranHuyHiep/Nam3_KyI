@@ -1,0 +1,11 @@
+D:\Visual\BTT2\nghich\nghich\bin\Debug\nghich.exe.config
+D:\Visual\BTT2\nghich\nghich\bin\Debug\nghich.exe
+D:\Visual\BTT2\nghich\nghich\bin\Debug\nghich.pdb
+D:\Visual\BTT2\nghich\nghich\obj\Debug\nghich.csproj.AssemblyReference.cache
+D:\Visual\BTT2\nghich\nghich\obj\Debug\nghich.csproj.SuggestedBindingRedirects.cache
+D:\Visual\BTT2\nghich\nghich\obj\Debug\nghich.Form1.resources
+D:\Visual\BTT2\nghich\nghich\obj\Debug\nghich.Properties.Resources.resources
+D:\Visual\BTT2\nghich\nghich\obj\Debug\nghich.csproj.GenerateResource.cache
+D:\Visual\BTT2\nghich\nghich\obj\Debug\nghich.csproj.CoreCompileInputs.cache
+D:\Visual\BTT2\nghich\nghich\obj\Debug\nghich.exe
+D:\Visual\BTT2\nghich\nghich\obj\Debug\nghich.pdb

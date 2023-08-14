@@ -1,0 +1,11 @@
+E:\utc_dai_cuong\nam3\Nam3_KyI\LapTrinhTrucQuan\THH\Lap_Trinh_Truc_Quan\Code\Buoi3\Bai1\Bai1\bin\Debug\Bai1.exe.config
+E:\utc_dai_cuong\nam3\Nam3_KyI\LapTrinhTrucQuan\THH\Lap_Trinh_Truc_Quan\Code\Buoi3\Bai1\Bai1\bin\Debug\Bai1.exe
+E:\utc_dai_cuong\nam3\Nam3_KyI\LapTrinhTrucQuan\THH\Lap_Trinh_Truc_Quan\Code\Buoi3\Bai1\Bai1\bin\Debug\Bai1.pdb
+E:\utc_dai_cuong\nam3\Nam3_KyI\LapTrinhTrucQuan\THH\Lap_Trinh_Truc_Quan\Code\Buoi3\Bai1\Bai1\obj\Debug\Bai1.csproj.AssemblyReference.cache
+E:\utc_dai_cuong\nam3\Nam3_KyI\LapTrinhTrucQuan\THH\Lap_Trinh_Truc_Quan\Code\Buoi3\Bai1\Bai1\obj\Debug\Bai1.csproj.SuggestedBindingRedirects.cache
+E:\utc_dai_cuong\nam3\Nam3_KyI\LapTrinhTrucQuan\THH\Lap_Trinh_Truc_Quan\Code\Buoi3\Bai1\Bai1\obj\Debug\Bai1.Form1.resources
+E:\utc_dai_cuong\nam3\Nam3_KyI\LapTrinhTrucQuan\THH\Lap_Trinh_Truc_Quan\Code\Buoi3\Bai1\Bai1\obj\Debug\Bai1.Properties.Resources.resources
+E:\utc_dai_cuong\nam3\Nam3_KyI\LapTrinhTrucQuan\THH\Lap_Trinh_Truc_Quan\Code\Buoi3\Bai1\Bai1\obj\Debug\Bai1.csproj.GenerateResource.cache
+E:\utc_dai_cuong\nam3\Nam3_KyI\LapTrinhTrucQuan\THH\Lap_Trinh_Truc_Quan\Code\Buoi3\Bai1\Bai1\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+E:\utc_dai_cuong\nam3\Nam3_KyI\LapTrinhTrucQuan\THH\Lap_Trinh_Truc_Quan\Code\Buoi3\Bai1\Bai1\obj\Debug\Bai1.exe
+E:\utc_dai_cuong\nam3\Nam3_KyI\LapTrinhTrucQuan\THH\Lap_Trinh_Truc_Quan\Code\Buoi3\Bai1\Bai1\obj\Debug\Bai1.pdb

@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Bai3",
+      "appliesTo": "Bai3/",
+      "type": "launch"
+    }
+  ]
+}

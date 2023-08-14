@@ -1,0 +1,11 @@
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Lap_Trinh_Truc_Quan\Code\ThucHanh_B02\QLDuThuyen\QLDuThuyen\QLDuThuyen\bin\Debug\QLDuThuyen.exe.config
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Lap_Trinh_Truc_Quan\Code\ThucHanh_B02\QLDuThuyen\QLDuThuyen\QLDuThuyen\bin\Debug\QLDuThuyen.exe
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Lap_Trinh_Truc_Quan\Code\ThucHanh_B02\QLDuThuyen\QLDuThuyen\QLDuThuyen\bin\Debug\QLDuThuyen.pdb
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Lap_Trinh_Truc_Quan\Code\ThucHanh_B02\QLDuThuyen\QLDuThuyen\QLDuThuyen\obj\Debug\QLDuThuyen.csproj.AssemblyReference.cache
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Lap_Trinh_Truc_Quan\Code\ThucHanh_B02\QLDuThuyen\QLDuThuyen\QLDuThuyen\obj\Debug\QLDuThuyen.csproj.SuggestedBindingRedirects.cache
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Lap_Trinh_Truc_Quan\Code\ThucHanh_B02\QLDuThuyen\QLDuThuyen\QLDuThuyen\obj\Debug\QLDuThuyen.Form1.resources
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Lap_Trinh_Truc_Quan\Code\ThucHanh_B02\QLDuThuyen\QLDuThuyen\QLDuThuyen\obj\Debug\QLDuThuyen.Properties.Resources.resources
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Lap_Trinh_Truc_Quan\Code\ThucHanh_B02\QLDuThuyen\QLDuThuyen\QLDuThuyen\obj\Debug\QLDuThuyen.csproj.GenerateResource.cache
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Lap_Trinh_Truc_Quan\Code\ThucHanh_B02\QLDuThuyen\QLDuThuyen\QLDuThuyen\obj\Debug\QLDuThuyen.csproj.CoreCompileInputs.cache
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Lap_Trinh_Truc_Quan\Code\ThucHanh_B02\QLDuThuyen\QLDuThuyen\QLDuThuyen\obj\Debug\QLDuThuyen.exe
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Lap_Trinh_Truc_Quan\Code\ThucHanh_B02\QLDuThuyen\QLDuThuyen\QLDuThuyen\obj\Debug\QLDuThuyen.pdb

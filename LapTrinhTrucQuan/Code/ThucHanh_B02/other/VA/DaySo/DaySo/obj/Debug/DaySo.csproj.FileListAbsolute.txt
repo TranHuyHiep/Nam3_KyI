@@ -1,0 +1,11 @@
+D:\Visual\DaySo\DaySo\bin\Debug\DaySo.exe.config
+D:\Visual\DaySo\DaySo\bin\Debug\DaySo.exe
+D:\Visual\DaySo\DaySo\bin\Debug\DaySo.pdb
+D:\Visual\DaySo\DaySo\obj\Debug\DaySo.csproj.AssemblyReference.cache
+D:\Visual\DaySo\DaySo\obj\Debug\DaySo.csproj.SuggestedBindingRedirects.cache
+D:\Visual\DaySo\DaySo\obj\Debug\DaySo.Form1.resources
+D:\Visual\DaySo\DaySo\obj\Debug\DaySo.Properties.Resources.resources
+D:\Visual\DaySo\DaySo\obj\Debug\DaySo.csproj.GenerateResource.cache
+D:\Visual\DaySo\DaySo\obj\Debug\DaySo.csproj.CoreCompileInputs.cache
+D:\Visual\DaySo\DaySo\obj\Debug\DaySo.exe
+D:\Visual\DaySo\DaySo\obj\Debug\DaySo.pdb

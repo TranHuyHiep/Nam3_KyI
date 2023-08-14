@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TH4_CoSoDuLieu", "TH4_CoSoDuLieu\TH4_CoSoDuLieu.csproj", "{2AEAA71C-A445-43EA-9F1B-BF962C8A1F5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AEAA71C-A445-43EA-9F1B-BF962C8A1F5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AEAA71C-A445-43EA-9F1B-BF962C8A1F5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AEAA71C-A445-43EA-9F1B-BF962C8A1F5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AEAA71C-A445-43EA-9F1B-BF962C8A1F5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A707CE1-88D4-4C0F-974F-063169E5D8CA}
+	EndGlobalSection
+EndGlobal

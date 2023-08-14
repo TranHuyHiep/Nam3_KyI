@@ -1,0 +1,8 @@
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Code\BTVN_Buoi1\Bai4\Bai4\obj\Debug\Bai4.csproj.AssemblyReference.cache
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Code\BTVN_Buoi1\Bai4\Bai4\obj\Debug\Bai4.csproj.SuggestedBindingRedirects.cache
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Code\BTVN_Buoi1\Bai4\Bai4\obj\Debug\Bai4.csproj.CoreCompileInputs.cache
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Code\BTVN_Buoi1\Bai4\Bai4\bin\Debug\Bai4.exe.config
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Code\BTVN_Buoi1\Bai4\Bai4\bin\Debug\Bai4.exe
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Code\BTVN_Buoi1\Bai4\Bai4\bin\Debug\Bai4.pdb
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Code\BTVN_Buoi1\Bai4\Bai4\obj\Debug\Bai4.exe
+E:\UTC\Nam3\Ki1\Lap_Trinh_Truc_Quan\Code\BTVN_Buoi1\Bai4\Bai4\obj\Debug\Bai4.pdb

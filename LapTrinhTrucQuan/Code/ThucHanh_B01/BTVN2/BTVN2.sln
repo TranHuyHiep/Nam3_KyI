@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTVN2", "BTVN2\BTVN2.csproj", "{5B8F3C74-0C6F-4DBB-9454-C3235FF5B0E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B8F3C74-0C6F-4DBB-9454-C3235FF5B0E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B8F3C74-0C6F-4DBB-9454-C3235FF5B0E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B8F3C74-0C6F-4DBB-9454-C3235FF5B0E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B8F3C74-0C6F-4DBB-9454-C3235FF5B0E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {851CD64D-0E99-4F45-8CAC-471D8F56DFA0}
+	EndGlobalSection
+EndGlobal

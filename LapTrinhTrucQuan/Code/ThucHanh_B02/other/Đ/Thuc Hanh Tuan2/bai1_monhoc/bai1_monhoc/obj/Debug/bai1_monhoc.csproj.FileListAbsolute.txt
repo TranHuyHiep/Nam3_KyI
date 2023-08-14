@@ -1,0 +1,22 @@
+E:\lập trình trực quan\Thuc Hanh Tuan2\bai1_monhoc\bai1_monhoc\bin\Debug\bai1_monhoc.exe.config
+E:\lập trình trực quan\Thuc Hanh Tuan2\bai1_monhoc\bai1_monhoc\bin\Debug\bai1_monhoc.exe
+E:\lập trình trực quan\Thuc Hanh Tuan2\bai1_monhoc\bai1_monhoc\bin\Debug\bai1_monhoc.pdb
+E:\lập trình trực quan\Thuc Hanh Tuan2\bai1_monhoc\bai1_monhoc\obj\Debug\bai1_monhoc.csproj.AssemblyReference.cache
+E:\lập trình trực quan\Thuc Hanh Tuan2\bai1_monhoc\bai1_monhoc\obj\Debug\bai1_monhoc.csproj.SuggestedBindingRedirects.cache
+E:\lập trình trực quan\Thuc Hanh Tuan2\bai1_monhoc\bai1_monhoc\obj\Debug\bai1_monhoc.Form1.resources
+E:\lập trình trực quan\Thuc Hanh Tuan2\bai1_monhoc\bai1_monhoc\obj\Debug\bai1_monhoc.Properties.Resources.resources
+E:\lập trình trực quan\Thuc Hanh Tuan2\bai1_monhoc\bai1_monhoc\obj\Debug\bai1_monhoc.csproj.GenerateResource.cache
+E:\lập trình trực quan\Thuc Hanh Tuan2\bai1_monhoc\bai1_monhoc\obj\Debug\bai1_monhoc.csproj.CoreCompileInputs.cache
+E:\lập trình trực quan\Thuc Hanh Tuan2\bai1_monhoc\bai1_monhoc\obj\Debug\bai1_monhoc.exe
+E:\lập trình trực quan\Thuc Hanh Tuan2\bai1_monhoc\bai1_monhoc\obj\Debug\bai1_monhoc.pdb
+E:\utc_dai_cuong\nam3\Nam3_KyI\LapTrinhTrucQuan\THH\Lap_Trinh_Truc_Quan\Code\ThucHanh_B02\other\Đ\Thuc Hanh Tuan2\bai1_monhoc\bai1_monhoc\bin\Debug\bai1_monhoc.exe.config
+E:\utc_dai_cuong\nam3\Nam3_KyI\LapTrinhTrucQuan\THH\Lap_Trinh_Truc_Quan\Code\ThucHanh_B02\other\Đ\Thuc Hanh Tuan2\bai1_monhoc\bai1_monhoc\bin\Debug\bai1_monhoc.exe
+E:\utc_dai_cuong\nam3\Nam3_KyI\LapTrinhTrucQuan\THH\Lap_Trinh_Truc_Quan\Code\ThucHanh_B02\other\Đ\Thuc Hanh Tuan2\bai1_monhoc\bai1_monhoc\bin\Debug\bai1_monhoc.pdb
+E:\utc_dai_cuong\nam3\Nam3_KyI\LapTrinhTrucQuan\THH\Lap_Trinh_Truc_Quan\Code\ThucHanh_B02\other\Đ\Thuc Hanh Tuan2\bai1_monhoc\bai1_monhoc\obj\Debug\bai1_monhoc.csproj.AssemblyReference.cache
+E:\utc_dai_cuong\nam3\Nam3_KyI\LapTrinhTrucQuan\THH\Lap_Trinh_Truc_Quan\Code\ThucHanh_B02\other\Đ\Thuc Hanh Tuan2\bai1_monhoc\bai1_monhoc\obj\Debug\bai1_monhoc.csproj.SuggestedBindingRedirects.cache
+E:\utc_dai_cuong\nam3\Nam3_KyI\LapTrinhTrucQuan\THH\Lap_Trinh_Truc_Quan\Code\ThucHanh_B02\other\Đ\Thuc Hanh Tuan2\bai1_monhoc\bai1_monhoc\obj\Debug\bai1_monhoc.Form1.resources
+E:\utc_dai_cuong\nam3\Nam3_KyI\LapTrinhTrucQuan\THH\Lap_Trinh_Truc_Quan\Code\ThucHanh_B02\other\Đ\Thuc Hanh Tuan2\bai1_monhoc\bai1_monhoc\obj\Debug\bai1_monhoc.Properties.Resources.resources
+E:\utc_dai_cuong\nam3\Nam3_KyI\LapTrinhTrucQuan\THH\Lap_Trinh_Truc_Quan\Code\ThucHanh_B02\other\Đ\Thuc Hanh Tuan2\bai1_monhoc\bai1_monhoc\obj\Debug\bai1_monhoc.csproj.GenerateResource.cache
+E:\utc_dai_cuong\nam3\Nam3_KyI\LapTrinhTrucQuan\THH\Lap_Trinh_Truc_Quan\Code\ThucHanh_B02\other\Đ\Thuc Hanh Tuan2\bai1_monhoc\bai1_monhoc\obj\Debug\bai1_monhoc.csproj.CoreCompileInputs.cache
+E:\utc_dai_cuong\nam3\Nam3_KyI\LapTrinhTrucQuan\THH\Lap_Trinh_Truc_Quan\Code\ThucHanh_B02\other\Đ\Thuc Hanh Tuan2\bai1_monhoc\bai1_monhoc\obj\Debug\bai1_monhoc.exe
+E:\utc_dai_cuong\nam3\Nam3_KyI\LapTrinhTrucQuan\THH\Lap_Trinh_Truc_Quan\Code\ThucHanh_B02\other\Đ\Thuc Hanh Tuan2\bai1_monhoc\bai1_monhoc\obj\Debug\bai1_monhoc.pdb
